@@ -46,7 +46,7 @@ module.exports = class DepthCalculator {
 ---
 
 ### Work 
-- Freelance (2002 - 2018)
+- Freelance
 
 ---
 
