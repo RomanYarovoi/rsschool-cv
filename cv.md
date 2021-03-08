@@ -1,15 +1,18 @@
 # Roman Yarovoi 
 - Kharkiv, Ukraine
+
 ---
 
 ### Contacts
 - email: roman.and.yarovoi@gmail.com
 - github: [github](https://github.com/RomanYarovoi)
 - telegram: [telegram](https://t.me/roman_yarovoi/)
+
 ---
 
 ### About me
 - I am easy to learn.
+
 ---
 
 ### Skills
@@ -27,6 +30,7 @@
 - ◾◽◽◽◽ Docker, Docker Compose
 - ◾◽◽◽◽ Kubernetes, Ansible, Terraform, Jenkins, GCP
 - ◾◾◽◽◽ SEO, Linkbilding
+
 ---
 
 ### Code
@@ -43,10 +47,12 @@ module.exports = class DepthCalculator {
 
 ### Work 
 - Freelance (2002 - 2018)
+
 ---
 
 ### Education
 - [Flutter & Dart - The Complete Guide [2021 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+
 ---
 
 ### English
